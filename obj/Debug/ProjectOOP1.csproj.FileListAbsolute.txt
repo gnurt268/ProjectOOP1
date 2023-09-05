@@ -1,0 +1,49 @@
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\bin\Debug\ProjectOOP1.exe
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\bin\Debug\ProjectOOP1.exe.config
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\bin\Debug\ProjectOOP1.pdb
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\bin\Debug\EntityFramework.dll
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\bin\Debug\EntityFramework.xml
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.Properties.Resources.resources
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.csproj.CopyComplete
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.exe
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.pdb
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.Form2.resources
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.frmchitietphieuxuat.resources
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.frmDangnhap.resources
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.frmQuanlynhanvien.resources
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.frmQuanlyphieuxuat.resources
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.frmSanPham.resources
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.frmThaydoitaikhoan.resources
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.frmthongkephieuxuat.resources
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.frmThongkesanpham.resources
+C:\Users\DELL\OneDrive - Hanoi University of Science and Technology\Desktop\CK OOP\ProjectOOP1\obj\Debug\ProjectOOP1.frmTroGiup.resources
+C:\Users\trung\Downloads\ProjectOOP1\bin\Debug\ProjectOOP1.exe.config
+C:\Users\trung\Downloads\ProjectOOP1\bin\Debug\ProjectOOP1.exe
+C:\Users\trung\Downloads\ProjectOOP1\bin\Debug\ProjectOOP1.pdb
+C:\Users\trung\Downloads\ProjectOOP1\bin\Debug\EntityFramework.dll
+C:\Users\trung\Downloads\ProjectOOP1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trung\Downloads\ProjectOOP1\bin\Debug\EntityFramework.xml
+C:\Users\trung\Downloads\ProjectOOP1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.csproj.AssemblyReference.cache
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.Form2.resources
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.frmchitietphieuxuat.resources
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.frmDangnhap.resources
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.frmQuanlynhanvien.resources
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.frmQuanlyphieuxuat.resources
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.frmSanPham.resources
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.frmThaydoitaikhoan.resources
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.frmthongkephieuxuat.resources
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.frmThongkesanpham.resources
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.frmTroGiup.resources
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.Properties.Resources.resources
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.csproj.GenerateResource.cache
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.csproj.CoreCompileInputs.cache
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.csproj.CopyComplete
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.exe
+C:\Users\trung\Downloads\ProjectOOP1\obj\Debug\ProjectOOP1.pdb
